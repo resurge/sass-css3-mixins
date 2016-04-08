@@ -1,0 +1,17 @@
+{
+  "name": "sass-css3-mixins",
+  "version": "0.1.0",
+  "description": "List of CSS3 Sass Mixins File to be @imported and @included as you need",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resurge/sass-css3-mixins.git"
+  },
+  "keywords": [
+    "sass",
+    "scss",
+    "css3",
+    "mixin"
+  ],
+  "author": "Matthieu Aussaguel (http://www.mynameismatthieu.com/)",
+  "license": "MIT"
+}
